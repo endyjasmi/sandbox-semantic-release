@@ -1,0 +1,7 @@
+{
+  "name": "@sandbox/semantic-release",
+  "version": "0.0.0",
+  "devDependencies": {
+    "semantic-release": "^20.1.0"
+  }
+}
